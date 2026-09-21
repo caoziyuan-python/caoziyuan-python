@@ -31,7 +31,7 @@
 **关键词：** Wearable Sensors · Context-aware Agent · Dynamic Planning · Human-in-the-loop · Privacy
 
 <details>
-<summary><b>👇 点击展开：看看 PulsePlan 会如何规划我的一天</b></summary>
+<summary><b>👇 ### 👀 点击看看这个想法具体怎么运行？</b></summary>
 
 <br>
 
@@ -60,12 +60,13 @@
 这个想法目前仍处于概念探索阶段。真正实现它，还需要解决状态估计的准确性、数据授权、隐私保护、用户纠偏和长期反馈学习等问题。
 
 </details>
-## 🤖 我最近在研究什么（真的）
+
+## 🍜 一些不影响求职的认真研究
+
 - 去哪里旅行
 - 北京有什么好吃的漂亮饭
 - 有什么好闻的沐浴露
 - 豆柴犬舍选哪家
----
 
 ## 🧰 我的能力工具箱
 
