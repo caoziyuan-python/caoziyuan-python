@@ -16,7 +16,7 @@
 - 🎮 **[GameLens](链接)**：从玩家评论中提取问题、需求及产品机会
 - 🌙 **[Kimi Analysis](链接)**：从用户场景、交互链路和任务边界拆解AI产品
 - 🐛 **[Codex Pet](链接)**：小熊虫
-- 🐛 **[find-your-job](链接)**：秋招管理
+- 🐛 **[find-your-job](https://github.com/caoziyuan-python/find-your-job)**：秋招管理
 ## 🥚 最近正在做
 
 ### 🫀 PulsePlan｜一个会“看状态”的任务规划 Agent
