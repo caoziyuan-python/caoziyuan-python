@@ -12,10 +12,10 @@
 
 ## 🚀 我做过的一些东西
 
-- 🧳 **[Travel Agent](链接)**：把模糊旅行需求拆成规划、搜索、预算和工具调用任务
-- 🎮 **[GameLens](链接)**：从玩家评论中提取问题、需求及产品机会
-- 🌙 **[Kimi Analysis](链接)**：从用户场景、交互链路和任务边界拆解AI产品
-- 🐛 **[Codex Pet](链接)**：小熊虫
+- 🧳 **[Travel Agent](https://github.com/caoziyuan-python/Travel-agent)**：把模糊旅行需求拆成规划、搜索、预算和工具调用任务
+- 🎮 **[GameLens](https://github.com/caoziyuan-python/Gamelens)**：从玩家评论中提取问题、需求及产品机会
+- 🌙 **[Kimi Analysis](https://github.com/caoziyuan-python/kimi_analysis)**：从用户场景、交互链路和任务边界拆解AI产品
+- 🐛 **[Codex Pet](https://github.com/caoziyuan-python/tardigrade-five-codex-pet)**：小熊虫
 - 🐛 **[find-your-job](https://github.com/caoziyuan-python/find-your-job)**：秋招管理
 ## 🥚 最近正在做
 
